@@ -21,8 +21,6 @@ const russianSelector2 = document.querySelector('.russianDad2')
 
 
 
-
-
 let vodkaScore = 0;
 let clickValue = 1;
 let originalClickValue = 1;
@@ -226,10 +224,4 @@ russianButton.addEventListener('click', function(){
         }
     }
 )
-console.log(totalAutoPerSecond)
 
-//Mangler
-// add autoclicker
-// andre Passive incomes fx sidney lee og bah med billeder
-//dark theme
-//

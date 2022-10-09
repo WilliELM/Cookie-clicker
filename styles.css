@@ -27,6 +27,7 @@ body{
     text-align: left;
     background: whitesmoke;
 }
+
 #middelPart {
     height: 90%;
     width: 50%;
@@ -197,4 +198,8 @@ body{
     animation: rotation 1s infinite alternate;
     display: none;
 
+}
+
+.vodka:active {
+    transform: scale(0.97%);
 }
